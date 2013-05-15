@@ -24,6 +24,10 @@ vagrant ssh
 
   exit
 
+vagrant halt
+
+vagrant up # works again
+
 # Attributes
 
 # Recipes
